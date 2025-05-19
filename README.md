@@ -4,6 +4,10 @@ A Python-based GUI application for simulating **tearing of the cerebral dura mat
 
 ## 🚀 Project Overview
 
+![052220](https://github.com/user-attachments/assets/3b1c3f26-faff-43a2-8401-e0e859dfb6aa)
+
+
+
 Theseus is a research-grade simulation system designed to support neurosurgical training. The application allows users to:
 - Load and segment brain scans
 - Simulate surgical force interactions
